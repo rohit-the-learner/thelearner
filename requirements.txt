@@ -1,0 +1,8 @@
+psutil
+pywin32; platform_system == "Windows"
+watchdog
+pandas
+numpy
+python-dateutil
+matplotlib
+flask  # Include this if you're using Flask for a web UI instead of Tkinter
