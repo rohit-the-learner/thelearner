@@ -15,4 +15,4 @@ if __name__ == "__main__":
     root.mainloop()
 
     # Stop capture when UI closes
-    capture_thread.join()
+    capture_thread.join
